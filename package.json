@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Ancizar Torres",
+  "author": "Angel Farfan",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
